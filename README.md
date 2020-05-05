@@ -25,4 +25,6 @@
 - [经济学原理 - 微观经济学](#)
 - [经济学原理 - 宏观经济学](#)
 - [浙江大学微观经济学共 75 讲 | 公开课](https://www.bilibili.com/video/BV1us411W7U6?from=search&seid=1323118962756780269)
+- [浙江大学 中级微观经济学 网课 | 公开课](https://www.bilibili.com/video/av87582759/?spm_id_from=333.788.b_636f6d6d656e74.6)
+- [浙江大学 高级微观经济学 网课 | 公开课](https://www.bilibili.com/video/av87593642/?spm_id_from=333.788.b_636f6d6d656e74.7)
 - [复旦大学经济学原理（2020 春）冯剑亮 | 公开课](https://www.bilibili.com/video/BV1Uk4y1R7DA?from=search&seid=7715030822278961667)
