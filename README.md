@@ -27,6 +27,8 @@
 - [浙江大学微观经济学共 75 讲 | 公开课](https://www.bilibili.com/video/BV1us411W7U6?from=search&seid=1323118962756780269)
 - [浙江大学 中级微观经济学 网课 | 公开课](https://www.bilibili.com/video/av87582759/?spm_id_from=333.788.b_636f6d6d656e74.6)
 - [浙江大学 高级微观经济学 网课 | 公开课](https://www.bilibili.com/video/av87593642/?spm_id_from=333.788.b_636f6d6d656e74.7)
+- [浙江大学叶航宏观经济学全 84 课（完结撒花）](https://www.bilibili.com/video/BV1Yx411x7Ba)
+- [宏观经济学](https://www.bilibili.com/video/av62117298)
 - [复旦大学经济学原理（2020 春）冯剑亮 | 公开课](https://www.bilibili.com/video/BV1Uk4y1R7DA?from=search&seid=7715030822278961667)
 
 > 浙大微观经济学三件套：
@@ -43,7 +45,6 @@
 - [货币银行学](https://www.bilibili.com/video/av77185905)
 - [货币银行学](https://www.bilibili.com/video/av62117150)
 - [货币金融学](https://www.bilibili.com/video/av78157710)
-- [宏观经济学](https://www.bilibili.com/video/av62117298)
 - [金融学](https://www.bilibili.com/video/av60362952)
 - [金融学(mooc 版)](https://www.bilibili.com/video/av64305677)
 - [投资学](https://www.bilibili.com/video/av63111056)
