@@ -98,3 +98,7 @@
 - [微观经济学](https://www.bilibili.com/video/av77736276)
 - [宏观经济学](https://www.bilibili.com/video/av77739800)
 - [会计学基础](https://www.bilibili.com/video/av77726704)
+
+### 文档资料
+
+- [K 线图](./docs/k-line-chart.md)
