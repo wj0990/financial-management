@@ -24,10 +24,10 @@
 
 - [经济学原理 - 微观经济学](#)
 - [经济学原理 - 宏观经济学](#)
-- [浙江大学微观经济学共 75 讲 | 公开课](https://www.bilibili.com/video/BV1us411W7U6?from=search&seid=1323118962756780269)
+- [浙江大学微观经济学共 75 讲 | 公开课](https://www.bilibili.com/video/BV1us411W7U6?from=search&seid=1323118962756780269) ※
 - [浙江大学 中级微观经济学 网课 | 公开课](https://www.bilibili.com/video/av87582759/?spm_id_from=333.788.b_636f6d6d656e74.6)
 - [浙江大学 高级微观经济学 网课 | 公开课](https://www.bilibili.com/video/av87593642/?spm_id_from=333.788.b_636f6d6d656e74.7)
-- [浙江大学叶航宏观经济学全 84 课（完结撒花）](https://www.bilibili.com/video/BV1Yx411x7Ba)
+- [浙江大学叶航宏观经济学全 84 课（完结撒花）](https://www.bilibili.com/video/BV1Yx411x7Ba) ※
 - [宏观经济学](https://www.bilibili.com/video/av62117298)
 - [复旦大学经济学原理（2020 春）冯剑亮 | 公开课](https://www.bilibili.com/video/BV1Uk4y1R7DA?from=search&seid=7715030822278961667)
 
@@ -101,4 +101,9 @@
 
 ### 文档资料
 
+- [证券公司](./docs/zhengquangongsi.md)
 - [K 线图](./docs/k-line-chart.md)
+- [交易费用](./docs/jiaoyifeiyong.md)
+- [市盈率](./docs/shiyinglv.md)
+- [市净率](./docs/shijinglv.md)
+- [基本面](./docs/jibenmian.md)
