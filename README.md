@@ -78,6 +78,7 @@
 - [财政学](https://www.bilibili.com/video/av60804796)
 - [流通概论](https://www.bilibili.com/video/av77100008)
 - [网络经济学](https://www.bilibili.com/video/av62228580)
+- [怪诞行为学](https://www.bilibili.com/video/BV16W411E7in)
 
 > 会计类
 
@@ -94,16 +95,30 @@
 
 > 北大光华管理 4 件套
 
-- [行为经济学](https://www.bilibili.com/video/av77730757)
+- [行为经济学](https://www.bilibili.com/video/av77730757) ※
 - [微观经济学](https://www.bilibili.com/video/av77736276)
 - [宏观经济学](https://www.bilibili.com/video/av77739800)
 - [会计学基础](https://www.bilibili.com/video/av77726704)
 
+> 股票基础
+
+    **只做基础概念了解！！！**
+
+- [股票学习从入门到精通](https://www.bilibili.com/video/BV1ib411i7jg)
+- [从零开始学炒股](https://www.bilibili.com/video/BV1D7411m7VV)
+
 ### 文档资料
 
 - [证券公司](./docs/zhengquangongsi.md)
-- [K 线图](./docs/k-line-chart.md)
 - [交易费用](./docs/jiaoyifeiyong.md)
 - [市盈率](./docs/shiyinglv.md)
 - [市净率](./docs/shijinglv.md)
+- [K 线图](./docs/k-line-chart.md)
+- [移动平均线](./docs/pingjunxian.md)
+- [成交量](./docs/chengjiaoliang.md)
+- [MACD](./docs/macd.md)
+- [分时走势图](./docs/fenshisoushitu.md)
+- [均线支撑](./docs/junxianzhicheng.md)
+- [趋势线](./docs/qushixian.md)
+- [筹码分布图](./docs/choumafenbutu.md)
 - [基本面](./docs/jibenmian.md)
