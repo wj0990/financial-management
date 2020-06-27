@@ -104,8 +104,8 @@
 
     **只做基础概念了解！！！**
 
+- [从零开始学炒股](https://www.bilibili.com/video/BV1D7411m7VV) ※
 - [股票学习从入门到精通](https://www.bilibili.com/video/BV1ib411i7jg)
-- [从零开始学炒股](https://www.bilibili.com/video/BV1D7411m7VV)
 
 ### 文档资料
 
@@ -122,3 +122,9 @@
 - [趋势线](./docs/qushixian.md)
 - [筹码分布图](./docs/choumafenbutu.md)
 - [基本面](./docs/jibenmian.md)
+- [热门板块](./docs/remenbankuai.md)
+- [周期行业](./docs/zhouqihangye.md)
+- [净资产增长率](./docs/jingzichanzengzhanglv.md)
+- [估值](./docs/guzhi.md)
+- [盈利能力](./docs/yinglinengli.md)
+- [财务报表](./docs/caiwubaobiao.md)

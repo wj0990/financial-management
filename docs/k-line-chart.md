@@ -16,3 +16,4 @@
 - [「股票 k 线图」是指什么，如何理解与分析？](https://www.zhihu.com/question/384284743/answer/1145758811)
 - [K 线图怎么看，有什么意义？](https://www.zhihu.com/question/294718830/answer/492073503)
 - [K 线](https://www.bilibili.com/video/BV1ib411i7jg?p=4)
+- [从零开始学炒股](https://www.bilibili.com/video/BV1D7411m7VV?p=3)
