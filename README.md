@@ -47,6 +47,7 @@
 - [货币金融学](https://www.bilibili.com/video/av78157710)
 - [金融学](https://www.bilibili.com/video/av60362952)
 - [金融学(mooc 版)](https://www.bilibili.com/video/av64305677)
+- [投资学](https://www.bilibili.com/video/BV1C4411X7zU) ※
 - [投资学](https://www.bilibili.com/video/av63111056)
 - [证券投资](https://www.bilibili.com/video/av70848889)
 - [期货与期权](https://www.bilibili.com/video/av76145731)
