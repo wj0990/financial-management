@@ -129,3 +129,6 @@
 - [估值](./docs/guzhi.md)
 - [盈利能力](./docs/yinglinengli.md)
 - [财务报表](./docs/caiwubaobiao.md)
+- [股票类型](./docs/gupiaoleixing.md)
+- [股指](./docs/gupiaozhishu.md)
+- [基金](./docs/jijin.md)
