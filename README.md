@@ -132,3 +132,5 @@
 - [股票类型](./docs/gupiaoleixing.md)
 - [股指](./docs/gupiaozhishu.md)
 - [基金](./docs/jijin.md)
+- [基金分类](./docs/jijinfenlei.md)
+- [ETF/LOF/QDII](./docs/etf-lof-qd.md)
