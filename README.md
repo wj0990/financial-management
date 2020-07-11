@@ -122,3 +122,7 @@
 - [基金](./docs/jijin.md)
 - [基金分类](./docs/jijinfenlei.md)
 - [ETF/LOF/QDII](./docs/etf-lof-qd.md)
+
+### 这些书告诉我的事
+
+- [这些书告诉我的事](./think-more/README.md)
