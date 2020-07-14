@@ -125,6 +125,7 @@
 - [N/XR/XD/DR](./docs/n-xr-xd-dr.md)
 - [委比/委量/量比](./docs/weibi-weiliang-liangbi.md)
 - [内盘/外盘](./docs/neipan-waipan.md)
+- [支撑位/阻力位](./docs/zhichengwei-zuliwei.md)
 
 ### 这些书告诉我的事
 
