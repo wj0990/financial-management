@@ -122,6 +122,9 @@
 - [基金](./docs/jijin.md)
 - [基金分类](./docs/jijinfenlei.md)
 - [ETF/LOF/QDII](./docs/etf-lof-qd.md)
+- [N/XR/XD/DR](./docs/n-xr-xd-dr.md)
+- [委比/委量/量比](./docs/weibi-weiliang-liangbi.md)
+- [内盘/外盘](./docs/neipan-waipan.md)
 
 ### 这些书告诉我的事
 
