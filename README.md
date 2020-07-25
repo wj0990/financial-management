@@ -126,6 +126,7 @@
 - [委比/委量/量比](./docs/weibi-weiliang-liangbi.md)
 - [内盘/外盘](./docs/neipan-waipan.md)
 - [支撑位/阻力位](./docs/zhichengwei-zuliwei.md)
+- [净资产](./docs/jingzichan.md)
 
 ### 这些书告诉我的事
 
