@@ -132,3 +132,11 @@
 ### 这些书告诉我的事
 
 - [这些书告诉我的事](./think-more)
+
+### 这些网站
+
+- [股票学习网](http://www.8gp8.cn/)
+- [天天基金网](https://fund.eastmoney.com/)
+- [晨星网](http://cn.morningstar.com)
+- [理想股票技术论坛](https://www.55188.com/portal.php)
+- [中国基金网](http://www.cnfund.cn/)
