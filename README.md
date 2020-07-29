@@ -140,3 +140,7 @@
 - [晨星网](http://cn.morningstar.com)
 - [理想股票技术论坛](https://www.55188.com/portal.php)
 - [中国基金网](http://www.cnfund.cn/)
+
+### 通达信
+
+- [通达信公式](https://help.tdx.com.cn/book.asp)
