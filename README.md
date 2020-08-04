@@ -128,6 +128,7 @@
 - [支撑位/阻力位](./docs/zhichengwei-zuliwei.md)
 - [净资产](./docs/jingzichan.md)
 - [赋权价格](./docs/fuquanjiage.md)
+- [集合竞价](./docs/jihejingjia.md)
 
 ### 这些书告诉我的事
 
