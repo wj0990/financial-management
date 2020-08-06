@@ -99,8 +99,7 @@
 
 - [证券公司](./docs/zhengquangongsi.md)
 - [交易费用](./docs/jiaoyifeiyong.md)
-- [市盈率](./docs/shiyinglv.md)
-- [市净率](./docs/shijinglv.md)
+- [市盈率/市净率](./docs/shiyinglv.md)
 - [企业估值倍数](./docs/ev-evitda.md)
 - [K 线图](./docs/k-line-chart.md)
 - [移动平均线](./docs/pingjunxian.md)
