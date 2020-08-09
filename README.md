@@ -135,6 +135,7 @@
 ### 这些网站
 
 - [股票学习网](http://www.8gp8.cn/)
+- [股票学习网](http://www.75111.net/)
 - [天天基金网](https://fund.eastmoney.com/)
 - [晨星网](http://cn.morningstar.com)
 - [理想股票技术论坛](https://www.55188.com/portal.php)
