@@ -114,7 +114,7 @@
 - [净资产](./docs/jingzichan.md)
 - [净资产增长率](./docs/jingzichanzengzhanglv.md)
 - [N/XR/XD/DR](./docs/n-xr-xd-dr.md)
-- [赋权价格](./docs/fuquanjiage.md)
+- [前复权](./docs/qianfuquan.md)
 - [集合竞价](./docs/jihejingjia.md)
 - [基本面](./docs/jibenmian.md)
 - [估值](./docs/guzhi.md)

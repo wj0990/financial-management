@@ -12,5 +12,6 @@
 
 ## 参考
 
+- [除权除息](http://baike.baidu.com/l/XGh80jXd)
 - [股票投资与入门实践-从零开始学习炒股 | 第 53 页](#)
 - [股票代码前符号](https://jingyan.baidu.com/article/fcb5aff7ae1728edaa4a71b9.html)
