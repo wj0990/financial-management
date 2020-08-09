@@ -106,6 +106,7 @@
 - [成交量](./docs/chengjiaoliang.md)
 - [趋势线](./docs/qushixian.md)
 - [分时走势图](./docs/fenshisoushitu.md)
+- [换手率](./docs/huanshoulv.md)
 - [筹码分布图](./docs/choumafenbutu.md)
 - [MACD](./docs/macd.md)
 - [基本面](./docs/jibenmian.md)
