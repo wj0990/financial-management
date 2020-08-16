@@ -57,7 +57,6 @@
 - [高级财务会计](https://www.bilibili.com/video/av81718082)
 - [管理会计](https://www.bilibili.com/video/av77065134)
 - [成本会计](https://www.bilibili.com/video/av81718807)
-- [会计电算化](https://www.bilibili.com/video/av81750461)
 - [财务分析](https://www.bilibili.com/video/av77064751)
 - [审计学](https://www.bilibili.com/video/av81694137)
 
