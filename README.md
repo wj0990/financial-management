@@ -77,6 +77,7 @@
 ### 文档资料
 
 - [证券公司](./docs/zhengquangongsi.md)
+- [股票代码](./docs/gupiaodaima.md)
 - [交易费用](./docs/jiaoyifeiyong.md)
 - [市盈率/市净率](./docs/shiyinglv.md)
 - [企业估值倍数](./docs/ev-evitda.md)
