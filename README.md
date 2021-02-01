@@ -108,6 +108,7 @@
 - [ETF/LOF/QDII](./docs/etf-lof-qd.md)
 - [热门板块](./docs/remenbankuai.md)
 - [周期行业](./docs/zhouqihangye.md)
+- [报表公布时间](./docs/baobiaogongbushijian.md)
 
 ### 这些书告诉我的事
 
